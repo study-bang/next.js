@@ -15,3 +15,6 @@ https://nextjs.org/learn?utm_source=next-site&utm_medium=homepage-cta&utm_campai
 - `cd nextjs-dashboard`
 - `pnpm i`
 - `pnpm dev`
+
+pnpm install next@canary
+pnpm i use-debounce
