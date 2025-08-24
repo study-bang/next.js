@@ -18,3 +18,9 @@ https://nextjs.org/learn?utm_source=next-site&utm_medium=homepage-cta&utm_campai
 
 pnpm install next@canary
 pnpm i use-debounce
+pnpm i next-auth@beta
+
+user@nextmail.com
+Password: 123456
+- server action: form submit 에서 500 에러 발생한다. 원인은 아직은 못찾음.
+
