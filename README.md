@@ -24,3 +24,6 @@ user@nextmail.com
 Password: 123456
 - server action: form submit 에서 500 에러 발생한다. 원인은 아직은 못찾음.
 
+3. Page Router
+- `npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/learn-starter"`
+
