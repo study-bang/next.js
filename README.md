@@ -26,4 +26,12 @@ Password: 123456
 
 3. Page Router
 - `npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/learn-starter"`
+- `cd nextjs-blog`
+- `npm run dev`
 
+npm install -D tailwindcss autoprefixer postcss
+npm install -D sass
+
+npm install gray-matter
+npm install remark remark-html
+npm install date-fns
